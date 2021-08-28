@@ -1,0 +1,13 @@
+{
+    "wait": "```Tunggu permintaan anda sedang diproses...```",
+    "error": {
+        "Iv": "_Maaf link yang kamu berikan tidak valid_",
+        "api": "_Maaf terjadi kesalahan_"
+    },
+    "OnlyGrup": "```Perintah ini hanya bisa digunakan di grup```",
+    "OnlyPM": "```Perintah ini hanya bisa digunakan di private chat```",
+    "GrupAdmin": "```Perintah ini hanya bisa digunakan oleh Admin Grup```",
+    "BotAdmin": "```Jadikan bot sebagai admin untuk menggunakan perintah ini```",
+    "OnlyOwner": "```Perintah ini hanya dapat digunakan oleh owner bot```",
+    "OnlyPrem": "```Perintah ini khusus member premium```"
+}
