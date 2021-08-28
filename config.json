@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6289524664142@s.whatsapp.net",
+    "ownerName": "Mr.Jaya",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "CeriaBot",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "CeriaBot VERIFIED!",
+    "sesidInsta": "default",
+    "sessionName": "session",
+    "txtDonasi": "GOPAY : 089524664142\nPulsa : 082339922441",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
