@@ -104,6 +104,10 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```cmd
 webpmux -version
 ```
+## Code Ulang
+* BOTZ adalah pengcodean ulang dari source code xinzbot
+* Semua fitur error telah diperbaiki
+* Beberapa fitur dihapus karena tidak sesuai dengan sc bot yang saya punya
 
 ## Donate
 - [Saweria](https://saweria.co/aqulzz)
